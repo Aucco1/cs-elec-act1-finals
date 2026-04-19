@@ -125,6 +125,8 @@ $$\int_0^5 x(t)\, dt \approx 137.50 \text{ m·s}$$
 
 ### Visualization
 
+<img width="800" height="492" alt="trafik" src="https://github.com/user-attachments/assets/9f1bafa1-cd26-4b6b-a005-66b880862e9d" />
+
 The animated script features a **top-down road view** with a moving vehicle alongside live position and velocity charts. The HUD overlays current time, position, and velocity in real-time.
 
 ---
@@ -187,6 +189,8 @@ $$\int_0^{10} T(x)\, dx \approx \frac{3h}{8}[T_0 + 3T_1 + 3T_2 + T_3] + \frac{h}
 
 ### Visualization
 
+<img width="800" height="492" alt="heatdefus" src="https://github.com/user-attachments/assets/2cb979ff-d81f-4f29-a177-774df5cfbc44" />
+
 The animated script renders a **vertical rod** with a thermal gradient colormap (red → blue), a scanning probe that reads local temperature and gradient in real-time, and synchronized temperature/gradient charts.
 
 ---
@@ -243,6 +247,8 @@ $$\int_0^{10} V(t)\, dt \approx 2700 \text{ L·min}$$
 - **Is the system linear or accelerating?** The volume data follows a **quadratic (accelerating) pattern**. The steadily increasing flow rate confirms that the fill rate is not constant but growing — consistent with a pressure-driven system.
 
 ### Visualization
+
+<img width="800" height="640" alt="tanktank" src="https://github.com/user-attachments/assets/2d8b7b3d-8de1-4096-836b-021f40f5ff46" />
 
 The animated script renders a **3D cylinder tank** filling with neon-cyan water in real-time, with a live dashboard overlay showing time, volume, and current flow rate. Tank top/bottom caps are rendered for a complete sealed-cylinder appearance.
 
@@ -304,6 +310,8 @@ $$\int_0^{10} E(t)\, dt \approx 57.00 \text{ kWh·hr}$$
 
 ### Visualization
 
+<img width="800" height="457" alt="electricy" src="https://github.com/user-attachments/assets/2a46a22d-a057-4706-adee-ea047c0548fe" />
+
 The animated script features a **semicircular smart meter gauge** with colour-coded zones (low/medium/peak), a colour-changing needle tied to instantaneous power, and dual charts for energy and power over time with a peak-usage annotation.
 
 ---
@@ -318,16 +326,13 @@ The animated script features a **semicircular smart meter gauge** with colour-co
 
 ---
 
-## 👥 Group Information
+## 👥 Group 8
 
-> *Fill in your group name, section, and member names below.*
 
-**Group Name:** ___________________
-**Section:** ___________________
 **Members:**
-- ___________________
-- ___________________
-- ___________________
+-Lucero
+-Pacheco
+-Peralta
 
 **Deadline:** April 19, 2026 @ 11:00 PM
 **Course:** CS ELEC 01 – Computational Science
