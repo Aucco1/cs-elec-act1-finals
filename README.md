@@ -88,7 +88,7 @@ $$v(t) = \frac{x(t+1) - x(t-1)}{2}$$
 
 **Distance Verification (Trapezoidal Rule):**
 
-$$\int_0^5 x(t)\, dt$$
+$$\int_0^5 v(t)\, dt$$
 
 ### Results
 
