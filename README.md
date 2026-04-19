@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📐 CS ELEC 01 — Computational Science
+#  CS ELEC 01 — Computational Science
 ### Unit 4: Numerical Methods for Real-World Data
 **College of Engineering and Information Technology**
 *Department of Computing and Library Information Science*
@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Overview
+##  Overview
 
 This repository contains solutions for **4 selected case studies** from the Unit 4 Finals Activity of CS ELEC 01. Each case study demonstrates the application of numerical methods — specifically **numerical differentiation** and **numerical integration** — to real-world engineering and scientific problems. Solutions are implemented in Python with animated visualizations for each case.
 
@@ -30,7 +30,7 @@ This repository contains solutions for **4 selected case studies** from the Unit
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 cs-elec01-unit4/
@@ -43,7 +43,7 @@ cs-elec01-unit4/
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ python case5_electricity.py
 
 ---
 
-## 🚗 Case Study 2: Traffic Flow & Velocity Estimation
+##  Case Study 2: Traffic Flow & Velocity Estimation
 
 ### Scenario
 A traffic monitoring system records the position of a vehicle every second. Engineers compute instantaneous velocity and total distance.
@@ -131,7 +131,7 @@ The animated script features a **top-down road view** with a moving vehicle alon
 
 ---
 
-## 🔥 Case Study 3: Heat Diffusion Simulation
+##  Case Study 3: Heat Diffusion Simulation
 
 ### Scenario
 A metal rod is heated at one end. Engineers estimate how heat spreads along its 10 cm length using discrete temperature measurements.
@@ -195,7 +195,7 @@ The animated script renders a **vertical rod** with a thermal gradient colormap 
 
 ---
 
-## 💧 Case Study 4: Water Tank Filling Rate Analysis
+##  Case Study 4: Water Tank Filling Rate Analysis
 
 ### Scenario
 Sensors record the volume of a water tank being filled over 10 minutes. Engineers determine the rate of inflow and verify total volume.
@@ -254,7 +254,7 @@ The animated script renders a **3D cylinder tank** filling with neon-cyan water 
 
 ---
 
-## ⚡ Case Study 5: Electricity Consumption & Power Analysis
+##  Case Study 5: Electricity Consumption & Power Analysis
 
 ### Scenario
 A household records energy consumption at 2-hour intervals. Engineers compute instantaneous power usage and verify total energy.
@@ -316,7 +316,7 @@ The animated script features a **semicircular smart meter gauge** with colour-co
 
 ---
 
-## 📐 Summary of Numerical Methods Used
+##  Summary of Numerical Methods Used
 
 | Method | Formula | Applied In |
 |--------|---------|------------|
@@ -326,7 +326,7 @@ The animated script features a **semicircular smart meter gauge** with colour-co
 
 ---
 
-## 👥 Group 8
+##  Group 8
 
 
 **Members:**
@@ -340,5 +340,5 @@ The animated script features a **semicircular smart meter gauge** with colour-co
 ---
 
 <div align="center">
-<sub>Made with Python 🐍 | CS ELEC 01 Unit 4 Finals Activity</sub>
+<sub>Made with Python  | CS ELEC 01 Unit 4 Finals Activity</sub>
 </div>
